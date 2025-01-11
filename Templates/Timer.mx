@@ -1,0 +1,8 @@
+import "modernx"
+number int = 0
+while true {
+  delay(1000)
+  int++
+  print(int)
+  print("\n")
+}
